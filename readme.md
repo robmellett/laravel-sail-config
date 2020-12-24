@@ -4,6 +4,8 @@
 
 2. Update the laravel `.env` with the following:
 
+**Remember to replace `app_name` with your project name**
+
 ```
 DB_CONNECTION=pgsql
 DB_HOST=postgres
