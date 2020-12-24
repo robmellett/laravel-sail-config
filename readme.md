@@ -1,6 +1,8 @@
 ## Sample Laravel Sail with Postgres
 
-Update the laravel `.env` with the following:
+1. Replace the laravel `docker-compose.yml` with the one in this project.
+
+2. Update the laravel `.env` with the following:
 
 ```
 DB_CONNECTION=pgsql
